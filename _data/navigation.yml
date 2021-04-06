@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "日常活动"
       section: services
-    - title: "Portfolio"
+    - title: "项目案例"
       section: portfolio
     - title: "About"
       section: timeline

@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "项目案例"
       section: portfolio
-    - title: "关系"
+    - title: "时间轴"
       section: timeline
     - title: "团队"
       section: team

@@ -29,22 +29,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# 英语
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "daily" #日常
-      section: servicios
-    - title: "Project list" #项目案列
-      section: portafolio
-    - title: "About"
-      section: cronologia
-    - title: "Team"
-      section: equipo
-    - title: "Elegant demeanour"
-      section: contacto #风采展示
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES

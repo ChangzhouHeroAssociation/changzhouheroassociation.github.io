@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "竞赛"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "学习"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 

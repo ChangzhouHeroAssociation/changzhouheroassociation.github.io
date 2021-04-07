@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 
   team:
     title: "团队"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Team"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -165,7 +165,7 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Eniligsh
 # -------
 es: &DEFAULT_ES
   header:
@@ -175,8 +175,8 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
+    title: "daily"
+    text: "Daily"
     section: servicios
     list:
       - title: "Comercio Electrónico"

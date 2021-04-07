@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-project-diagram #find more at https://fontawesome.com/icons
       - title: "竞赛"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-award
       - title: "学习"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-leanpub
 
   portfolio:
     title: "Portfolio"

@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "日常"
     text: "Lorem ipsum"
     section: services
     list:

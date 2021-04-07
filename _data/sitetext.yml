@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 欢迎来到我们的工作室！
+    text: 很高兴见到你
+    button: 更多
     buttonlink: "#services"
 
   services:
     title: "日常"
-    text: "Lorem ipsum"
+    text: "daily"
     section: services
     list:
       - title: "项目"
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-leanpub
 
   portfolio:
-    title: "Portfolio"
+    title: "项目案例"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
@@ -129,7 +129,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "风彩展示"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"

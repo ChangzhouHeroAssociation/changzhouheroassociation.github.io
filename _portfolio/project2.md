@@ -1,7 +1,7 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image:  https://place-hold.it/400x300
 alt: Keep Exploring
 
 caption:

@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "团队"
       section: team
-    - title: "风采展示"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:

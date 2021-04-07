@@ -7,7 +7,7 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default)
+# 默认中文
 # -----------------
 en: &DEFAULT_EN
   nav:
@@ -15,14 +15,12 @@ en: &DEFAULT_EN
       section: services
     - title: "项目案例"
       section: portfolio
-    - title: "About"
+    - title: "关系"
       section: timeline
-    - title: "Team"
+    - title: "团队"
       section: team
-    - title: "Contact"
+    - title: "风采展示"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -32,22 +30,20 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# 英语
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: "daily" #日常
       section: servicios
-    - title: "Portafolio"
+    - title: "Project list" #项目案列
       section: portafolio
-    - title: "Cronología"
+    - title: "About"
       section: cronologia
-    - title: "Equipo"
+    - title: "Team"
       section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Elegant demeanour"
+      section: contacto #风采展示
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

@@ -27,5 +27,5 @@
         </div>
     </div>
 </section>
-{% exhibition.md %}
+{% include modals.html %}
 

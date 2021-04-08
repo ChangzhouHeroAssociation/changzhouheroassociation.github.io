@@ -27,4 +27,5 @@
         </div>
     </div>
 </section>
+{% include modals.html %}
 

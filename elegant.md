@@ -13,7 +13,7 @@ Policy background: grey
                  <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
                     <div class="portfolio-caption">
                      <a class="portfolio-link" data-toggle="modal"   index="project.caption.    title"  style="display:block; height: 100%; width: 100%;" >
-                       <h4>{{ project.caption.title }}</h4>
+                      {{ project.caption.title }}
                        </a>
                     </div>  
             </div>

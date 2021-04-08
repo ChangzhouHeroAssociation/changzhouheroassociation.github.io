@@ -145,6 +145,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
+    elegant:"风采展示"
 #     social:
 #       - url: https://twitter.com
 #         icon: "fab fa-twitter"

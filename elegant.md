@@ -10,12 +10,12 @@ Policy background: grey
         <div class="row">
             {% for project in site.platform %}
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a class="portfolio-link" data-toggle="modal"  href="exhibition" index="project.caption.title"  style="display:block; height: 100%; width: 100%;" >
-                    <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+                 <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
                     <div class="portfolio-caption">
-                        <h4>{{ project.caption.title }}</h4>
-                    </div>
-                </a>
+                     <a class="portfolio-link" data-toggle="modal"   index="project.caption.    title"  style="display:block; height: 100%; width: 100%;" >
+                       <h4>{{ project.caption.title }}</h4>
+                       </a>
+                    </div>  
             </div>
             {% endfor %}
         </div>

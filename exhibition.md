@@ -1,10 +1,7 @@
  {% for project in site.platform %}
-<script>
- console.log(this);
-</script>
-<div tabindex="-1" role="dialog" aria-hidden="true">
+<div tabindex="-1" role="dialog" aria-hidden="true" id="p{{ loop.index }}">
     <div>
-        <div class="modal-content">
+        <div class="modal-content"
             <div data-dismiss="modal">
                 <div class="lr">
                     <div class="rl">111</div>

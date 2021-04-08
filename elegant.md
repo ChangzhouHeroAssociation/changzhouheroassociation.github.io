@@ -10,12 +10,12 @@ Policy background: grey
         <div class="row">
             {% for project in site.platform %}
             <div class="col-md-4 col-sm-6 portfolio-item">
-                 <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+                <a class="portfolio-link" data-toggle="modal" href="#p{{ loop.index }}"  style="display:block; height: 100%; width: 100%;" >
+                    <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
                     <div class="portfolio-caption">
-                     <a class="portfolio-link" data-toggle="modal"   style="display:block; height: 100%; width: 100%;" href="https://jun-mo.github.io/ho/exhibition" data-ajax="false"  >
-                      {{ project.caption.title }}
-                       </a>
-                    </div>  
+                        <h4>{{ project.caption.title }}</h4>
+                    </div>
+                </a>
             </div>
             {% endfor %}
         </div>

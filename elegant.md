@@ -1,7 +1,7 @@
 <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background-color:#212529">
     <div class="container">
-	  <a class="navbar-brand js-scroll-trigger" href="https://jun-mo.github.io/moo/">首页</a>
+	  <a class="navbar-brand js-scroll-trigger" href="https://jun-mo.github.io/moi/">首页</a>
     </div>
   </nav>
   <!-- End Navigation -->

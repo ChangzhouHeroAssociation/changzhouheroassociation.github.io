@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "日常"
+    title: "日常活动"
     text: "daily"
     section: services
     list:

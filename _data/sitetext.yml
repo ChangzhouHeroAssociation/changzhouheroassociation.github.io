@@ -144,8 +144,9 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "苏ICP备17054451号-2"
-    elegant: "备案信息"
+    record:"苏ICP备17054451号-2"
+#     legal: "苏ICP备17054451号-2"
+#     elegant: "备案信息"
 #     social:
 #       - url: https://twitter.com
 #         icon: "fab fa-twitter"

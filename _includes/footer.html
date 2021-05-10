@@ -19,14 +19,21 @@
 			{% endfor %}
           </ul>
         </div> -->
-		<!-- Legal -->
-            <div class="col-md-12">
+	       <div class="col-md-12">
                 <ul class="list-inline quicklinks">
                     <li class="list-inline-item">
-                        <a href="http://www.beian.gov.cn">苏ICP备17054451号-2</a>
+                        <a href="http://www.beian.gov.cn">{{ site.data.sitetext[site.locale].footer.record | default: "苏ICP备17054451号-2" }}</a>
                     </li>
                 </ul>
             </div>
+		<!-- Legal -->
+<!--             <div class="col-md-12">
+                <ul class="list-inline quicklinks">
+                    <li class="list-inline-item">
+                        <a href="http://www.beian.gov.cn">{{ site.data.sitetext[site.locale].footer.legal | default: "法律" }}</a>
+                    </li>
+                </ul>
+            </div> -->
       </div>
     </div>
   </footer>

@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 欢迎来到我们的工作室！
+    title: 天琴工作室
     text: 很高兴见到你
     button: 更多
     buttonlink: "#services"

@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 图书商城
   subtitle: 教学开源项目 -- 朱澳威
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: https://image.freepik.com/free-vector/students-studying-textbooks_74855-5294.jpg
   
 #what displays when the item is clicked:
 title: 图书商城
 subtitle: 教学开源项目 -- 朱澳威
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: https://image.freepik.com/free-photo/young-woman-searching-book-bookstore-student-selecting-bookshelf-library-female-college-student-taking-book-from-shelf-library-pretty-young-college-student-library_1391-447.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: 图书商城
 
 ---
